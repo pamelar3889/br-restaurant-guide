@@ -1,8 +1,9 @@
 # Bay Ridge Restaurant Guide
-## Greek
+## european
 ---
 Select a specific Asian food:
-## [Omonia cafe](chinese.md)
-## [Meze](japanese.md)
+## [Greek](greek.md)
+## [Mediterranean](mediterrenean.md)
+## 
 ---
 [Start Over](../home.md)
