@@ -2,7 +2,8 @@
 ## Greek
 ---
 Select a specific Asian food:
-## [Omonia cafe](chinese.md)
-## [Meze](japanese.md)
+## [Omonia cafe](https://omoniacafe.com/)
+## [Meze](https://www.mezeny.com/)
 ---
 [Start Over](../home.md)
+
